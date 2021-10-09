@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/practice-two/static/css/main.a617e044.chunk.css",
+    "main.js": "/practice-two/static/js/main.4ae01a5a.chunk.js",
+    "main.js.map": "/practice-two/static/js/main.4ae01a5a.chunk.js.map",
+    "runtime-main.js": "/practice-two/static/js/runtime-main.2f1027f7.js",
+    "runtime-main.js.map": "/practice-two/static/js/runtime-main.2f1027f7.js.map",
+    "static/js/2.6c1337f4.chunk.js": "/practice-two/static/js/2.6c1337f4.chunk.js",
+    "static/js/2.6c1337f4.chunk.js.map": "/practice-two/static/js/2.6c1337f4.chunk.js.map",
+    "static/js/3.ed295993.chunk.js": "/practice-two/static/js/3.ed295993.chunk.js",
+    "static/js/3.ed295993.chunk.js.map": "/practice-two/static/js/3.ed295993.chunk.js.map",
+    "index.html": "/practice-two/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/practice-two/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6c1337f4.chunk.js.LICENSE.txt": "/practice-two/static/js/2.6c1337f4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/practice-two/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1027f7.js",
+    "static/js/2.6c1337f4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4ae01a5a.chunk.js"
+  ]
+}
